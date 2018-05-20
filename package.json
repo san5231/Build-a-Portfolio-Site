@@ -1,0 +1,20 @@
+{
+  "name": "build-portfolio-site",
+  "version": "1.0.0",
+  "description": "grunt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "SChen",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.2",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-sass": "^2.1.0",
+    "load-grunt-tasks": "^4.0.0"
+  }
+}
